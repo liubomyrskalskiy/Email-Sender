@@ -1,4 +1,7 @@
 # Email-Sender
-After clicking send button, process of sending email is started.
-If sending is succesfull it redirects you to the sent emails where you can check your sent email.
-On the sent page you can veiw your sent emails. Also you can delete emails by clicking delete button
+Перед запуском потрібно поміняти шлях до сервера(appsettings.json -> "DatabaseConnection": "server=LAPTOP-H0Q68PRE\\LIUBOMYRSERV")
+Після запуску "сайту" ви опинетесь на вступній сторінці, звідти можна перейти на сторінку з формою для надсилання повідомлення (Compose) або на сторінку відправлених повідомлень(Sent)
+На сторінці з фомою для відправлення потрібно ввести необхідні дані (Отримувачі(один або декілька через кому), Тему повідомлення, та саме повідомлення) 
+після чого з'явиться можливість натиснути кнопку Send, яка почне процес відправки повідомлення.
+Якщо відправлення завершилось успішно, вас переспямує на стрінку з відправленими повідомленнями, де ви побачите щойно відправлене повідомлення, та усі раніше відправлені.
+Також на цій сторінці, ви можете видалити повідомлення клікнувши на кнопку видалити у потрібного повідомлення.
