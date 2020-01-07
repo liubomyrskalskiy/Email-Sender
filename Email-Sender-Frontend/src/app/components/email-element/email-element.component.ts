@@ -18,9 +18,9 @@ export class EmailElementComponent implements OnInit {
   securityContext = SecurityContext.STYLE;
 
   constructor(
-    public sanitizer: DomSanitizer,
     private mailDeletingService: MailDeletingService,
-    private mailDataService: MailDataService
+    private mailDataService: MailDataService,
+    public sanitizer: DomSanitizer
   ) { }
 
   ngOnInit() {
