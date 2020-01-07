@@ -28,6 +28,10 @@
       placeholder="Subject"
     />
 
+    <p *ngIf="emailForm.get('subject').value != ''" class="symbol-counter">
+      {{ 250 - emailForm.get("subject").value.length }} symbols left
+    </p>
+
     <p
       *ngIf="
         !emailForm.get('subject').valid &&
@@ -57,6 +61,7 @@
           browser_spellcheck: true,
           plugins: 'lists emoticons',
           menubar: false,
+          toolbar_sticky: true,
           toolbar:
             'undo redo | fontselect | fontsizeselect | bold italic underline |
             forecolor backcolor | align | indent outdent |
