@@ -1,0 +1,24 @@
+<div class="email-wrapper">
+  <div class="email-header">
+    <h3>Subject: {{ emailElement.subject }}</h3>
+
+    <button type="button" (click)="onDelete()">
+      <i class="far fa-trash-alt"></i>
+    </button>
+  </div>
+
+  <h3>Recepients:</h3>
+
+  <ul>
+    <li *ngFor="let recepient of emailElement.recipients">
+      {{ recepient }}
+    </li>
+  </ul>
+
+  <h3>Message:</h3>
+
+  <div
+    class="emmail-message"
+    [innerHTML]="sanitizer.bypassSecurityTrustHtml(emailElement.message)"
+  ></div>
+</div>

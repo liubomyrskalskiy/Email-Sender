@@ -1,0 +1,13 @@
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\bin\Debug\netcoreapp3.0\EmailSender.DAL.deps.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\bin\Debug\netcoreapp3.0\EmailSender.DAL.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\bin\Debug\netcoreapp3.0\EmailSender.Core.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\bin\Debug\netcoreapp3.0\EmailSender.Core.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\obj\Debug\netcoreapp3.0\EmailSender.DAL.csprojAssemblyReference.cache
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\obj\Debug\netcoreapp3.0\EmailSender.DAL.AssemblyInfoInputs.cache
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\obj\Debug\netcoreapp3.0\EmailSender.DAL.AssemblyInfo.cs
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\obj\Debug\netcoreapp3.0\EmailSender.DAL.csproj.CopyComplete
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\bin\Debug\netcoreapp3.0\EmailSender.DAL.runtimeconfig.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\bin\Debug\netcoreapp3.0\EmailSender.DAL.runtimeconfig.dev.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\bin\Debug\netcoreapp3.0\EmailSender.DAL.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\obj\Debug\netcoreapp3.0\EmailSender.DAL.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.DAL\obj\Debug\netcoreapp3.0\EmailSender.DAL.pdb

@@ -1,0 +1,8 @@
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\bin\Debug\netcoreapp3.0\EmailSender.Core.deps.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\bin\Debug\netcoreapp3.0\EmailSender.Core.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\bin\Debug\netcoreapp3.0\EmailSender.Core.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\obj\Debug\netcoreapp3.0\EmailSender.Core.AssemblyInfoInputs.cache
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\obj\Debug\netcoreapp3.0\EmailSender.Core.AssemblyInfo.cs
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\obj\Debug\netcoreapp3.0\EmailSender.Core.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\obj\Debug\netcoreapp3.0\EmailSender.Core.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\EmailSender.Core\obj\Debug\netcoreapp3.0\EmailSender.Core.csprojAssemblyReference.cache

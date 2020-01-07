@@ -1,0 +1,53 @@
+div.email-wrapper {
+  margin-left: 1em;
+  margin-right: 1em;
+  background-color: white;
+  box-shadow: 0 0 10px grey;
+  border-radius: 0.7em;
+  padding: 1em;
+
+  div.email-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 0.5em;
+
+    h3 {
+      margin: 0;
+      color: #e1bd33;
+    }
+
+    button {
+      align-self: flex-end;
+      background: transparent;
+      border: none;
+      height: 100%;
+      color: #e1bd33;
+      font-size: medium;
+    }
+  }
+
+  h3 {
+    margin: 0;
+    margin-bottom: 0.5em;
+    color: #e1bd33;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5em;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.email-wrapper {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    padding: 0.5em;
+  }
+}

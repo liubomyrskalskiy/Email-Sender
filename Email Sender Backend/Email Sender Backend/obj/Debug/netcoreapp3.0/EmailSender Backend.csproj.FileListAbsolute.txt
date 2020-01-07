@@ -1,0 +1,76 @@
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender Backend.exe
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.csprojAssemblyReference.cache
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\staticwebassets\EmailSender Backend.StaticWebAssets.Manifest.cache
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\staticwebassets\EmailSender Backend.StaticWebAssets.xml
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.AssemblyInfoInputs.cache
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.AssemblyInfo.cs
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.RazorTargetAssemblyInfo.cache
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.csproj.CopyComplete
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender Backend.deps.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender Backend.runtimeconfig.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender Backend.runtimeconfig.dev.json
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender Backend.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender Backend.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender.Core.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender.Services.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender.Core.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender.Services.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender.DAL.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\EmailSender.DAL.pdb
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Exoft Training Camp\Email-Sender\Email Sender Backend\Email Sender Backend\obj\Debug\netcoreapp3.0\EmailSender Backend.MvcApplicationPartsAssemblyInfo.cache

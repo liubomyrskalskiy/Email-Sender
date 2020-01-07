@@ -1,0 +1,90 @@
+<div class="email-form">
+  <form [formGroup]="emailForm" (ngSubmit)="sendRequest()">
+    <input type="email" formControlName="recepients" placeholder="Recipients" />
+
+    <p
+      *ngIf="
+        emailForm.get('recepients').value != '' &&
+        !emailForm.get('recepients').valid &&
+        emailForm.get('recepients').dirty
+      "
+    >
+      Please check that the emails you entered are correct!
+    </p>
+
+    <p
+      *ngIf="
+        emailForm.get('recepients').value == '' &&
+        emailForm.get('recepients').dirty
+      "
+    >
+      Please enter at least one valid email!
+    </p>
+
+    <input
+      type="text"
+      [ngStyle]="inputFieldStyle"
+      formControlName="subject"
+      placeholder="Subject"
+    />
+
+    <p
+      *ngIf="
+        !emailForm.get('subject').valid &&
+        emailForm.get('subject').value != '' &&
+        emailForm.get('subject').dirty
+      "
+    >
+      Subject must be less than 250 characters!
+    </p>
+
+    <p
+      *ngIf="
+        emailForm.get('subject').value == '' && emailForm.get('subject').dirty
+      "
+    >
+      Please enter a subject!
+    </p>
+
+    <div [ngStyle]="inputFieldStyle">
+      <editor
+        apiKey="h29ldn18iexkjd239ewvfb4eah9eci1z0e5x76lxdw401lch"
+        formControlName="message"
+        [init]="{
+          height: '400',
+          margin_bottom: '20',
+          statusbar: false,
+          browser_spellcheck: true,
+          plugins: 'lists emoticons',
+          menubar: false,
+          toolbar:
+            'undo redo | fontselect | fontsizeselect | bold italic underline |
+            forecolor backcolor | align | indent outdent |
+            numlist bullist | blockquote strikethrough removeformat emoticons'
+        }"
+      ></editor>
+
+      <p
+        *ngIf="
+          emailForm.get('message').value != '' &&
+          !emailForm.get('message').valid &&
+          emailForm.get('message').dirty
+        "
+      >
+        Message must be less than 2048 characters!
+      </p>
+
+      <p
+        *ngIf="
+          emailForm.get('message').value == '' && emailForm.get('message').dirty
+        "
+      >
+        Please enter a message!
+      </p>
+
+      <button type="submit" [disabled]="!emailForm.valid">
+        Send
+      </button>
+    </div>
+  </form>
+</div>
