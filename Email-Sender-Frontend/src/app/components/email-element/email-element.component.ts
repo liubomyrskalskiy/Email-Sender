@@ -28,8 +28,12 @@ export class EmailElementComponent implements OnInit {
   }
 
   onDelete() {
-    this.mailDeletingService.deleteMail(this.emailElement.id).subscribe(responce => console.log(responce));
-    this.mailDataService.deletMail(this.emailElement);
+    this.mailDeletingService.deleteMail(this.emailElement.id).subscribe(() => {
+      this.mailDataService.deletMail(this.emailElement);
+    }, error => {
+      alert('Status: ' + error.status + '\nMesage: ' + error.message);
+    });
+
   }
 
 }
