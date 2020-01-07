@@ -12,6 +12,16 @@ div {
   app-email-element {
     margin-bottom: 1em;
   }
+
+  p {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 3vh;
+    color: #6e8248;
+    text-align: center;
+    text-shadow: 0 0 10px #fff;
+  }
 }
 
 @media screen and (max-width: 600px) {

@@ -3,4 +3,8 @@
     *ngFor="let emailElement of mailDataService.emails"
     [emailElement]="emailElement"
   ></app-email-element>
+
+  <p *ngIf="mailDataService.emails.length == 0">
+    Oops: We haven't found any mail around here
+  </p>
 </div>
