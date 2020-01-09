@@ -5,13 +5,13 @@ Flow described:
 
 -On a main page (called Dashboard) I expect to have a form with folowing controls:
 
-  -Subject (text input) - where I can type in the Subject of letter
+  *Subject (text input) - where I can type in the Subject of letter
   
-  -Message (rich text editor) - where I can enter the message itself and aply formatting styles
+  *Message (rich text editor) - where I can enter the message itself and aply formatting styles
   
-  -Recipients (text input with delimiting logic, chips, multiple inputs with an Add button etc - any sufficiend solution) - where I can specify the list of recipients
+  *Recipients (text input with delimiting logic, chips, multiple inputs with an Add button etc - any sufficiend solution) - where I can specify the list of recipients
   
-  -Send button
+  *Send button
 
 -After I specified Subject and Message and selected at least one recipient - I can invoke process of email sending
 
@@ -23,13 +23,13 @@ Acceptance criteria:
 
 -Basic validation on frontend AND backnd should be applied:
 
-  -Subject should not be empty and should not exceed 250 symbols limit
+  *Subject should not be empty and should not exceed 250 symbols limit
   
-  -Message should not be empty and should not exceed 2048 symbols limit
+  *Message should not be empty and should not exceed 2048 symbols limit
   
-  -At least one recipient should be selected
+  *At least one recipient should be selected
   
-  -All recipients should be a valid email addresses
+  *All recipients should be a valid email addresses
   
 -Email shuold be actually sent and this fact can be validated
 
