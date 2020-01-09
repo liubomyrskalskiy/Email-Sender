@@ -1,4 +1,4 @@
-﻿# Email-Sender
+﻿# 4. Email-Sender
 - As a user, I want to have an application where I can type a text and send it by email to a specified recipient.
 
 Flow described:
