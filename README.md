@@ -4,10 +4,10 @@
 Flow described:
 
 - On a main page (called Dashboard) I expect to have a form with following controls:
-o Subject (text input) - where I can type in the Subject of letter
-o Message (rich text editor) - where I can enter the message itself and apply formatting styles
-o Recipients (text input with delimiting logic, chips, multiple inputs with an Add button etc. - any sufficient solution) - where I can specify the list of recipients
-o Send button
+  - Subject (text input) - where I can type in the Subject of letter
+  - Message (rich text editor) - where I can enter the message itself and apply formatting styles
+  - Recipients (text input with delimiting logic, chips, multiple inputs with an Add button etc. - any sufficient solution) - where I can specify the list of recipients
+  - Send button
 - After I specified Subject and Message and selected at least one recipient - I can invoke process of email sending
 - On a backend side, WEB API should receive a model with specified data and send if through SMTP protocol.
 - 'FROM' field or a letter should be hard-coded on a backend
@@ -15,16 +15,18 @@ o Send button
 Acceptance criteria:
 
 - Basic validation on frontend AND backend should be applied:
-o Subject should not be empty and should not exceed 250 symbols limit
-o Message should not be empty and should not exceed 2048 symbols limit
-o At least one recipient should be selected
-o All recipients should be a valid email addresses
+  - Subject should not be empty and should not exceed 250 symbols limit
+  - Message should not be empty and should not exceed 2048 symbols limit
+  - At least one recipient should be selected
+  - All recipients should be a valid email addresses
 - Email should be actually sent and this fact can be validated
 - Message input should be a rich text editor, so user can apply formatting (color, font size, paragraphs etc.)
 - In case of message sending failure (immediate ones, bouncing emails are out of scope) user should get a proper notification on a frontend side
 
 Required technical stack: .NET CORE 3, WEB API, Angular 8+
+
 Recommended libraries: one can select any of rich text editors, for example - CKEditor 5, Quill, TinyMCE
+
 Note: One can use any SMTP server, but easiest way is to enable this for Google GMAIL account and send from own inbox
 
 Advanced level requirements:
