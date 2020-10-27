@@ -30,7 +30,7 @@ namespace EmailSender.Services
         {
             MailMessage mail = new MailMessage
             {
-                From = new MailAddress("liubomyr.skalskyi.pz.2017@lpnu.ua"),
+                From = new MailAddress("smth"),
                 Subject = mailDto.Subject,
                 Body = mailDto.Message,
                 IsBodyHtml = true
@@ -40,7 +40,7 @@ namespace EmailSender.Services
 
             SmtpClient smtpServer = new SmtpClient("smtp.gmail.com", 587)
             {
-                Credentials = new System.Net.NetworkCredential("liubomyr.skalskyi.pz.2017@lpnu.ua", "17.09.2000"),
+                Credentials = new System.Net.NetworkCredential("smt", "smth"),
                 EnableSsl = true
             };
             smtpServer.Send(mail);
